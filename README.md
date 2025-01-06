@@ -8,6 +8,10 @@
 
 ![](./tm-add-script.jpg)
 
+## Scripts
+
+-   [为云就业平台的实习日志添加全部回复功能](./bibibi-reply-all/)
+
 ## References
 
 -   [Tampermonkey 文档](https://www.tampermonkey.net/faq.php)
